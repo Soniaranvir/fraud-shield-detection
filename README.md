@@ -44,7 +44,7 @@ FraudShield is a **machine learning-based fraud detection system** designed to i
 
 ### 3️⃣ Run the Model
 ```python
- python fraud_detection.py
+ python fraud-transaction-detections.py
 ```
 
 ## 📌 Future Enhancements
